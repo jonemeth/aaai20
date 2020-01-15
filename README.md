@@ -18,7 +18,7 @@ The repository is under construction, the current version is only for the MNIST 
  * python3, tensorflow 1.13.1 or 1.14, matplotlib, sklearn
  
  
-## Running an experiments
+## Running Experiments
  * Extract mnist dataset.
  * Run `python3 test_mnist_trainings.py` to train models.
  * Run `python3 test_mnist_classify.py` for evaluation.
